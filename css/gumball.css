@@ -1,0 +1,518 @@
+
+
+
+body {
+    background-image: url(https://i.pinimg.com/750x/3b/8f/d4/3b8fd4a92f33274597f343e932e517c2.jpg);
+    /* position: relative; */
+}
+
+
+
+/* all items text */
+.all-text {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+
+
+
+
+.p-gumball_watterson {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070152663540441198/wp3997503.webp);
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.div-gumball_watterson {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+
+.gumball_watterson {
+    border-radius: 10px;
+    margin-left: 1%;
+    width: 20%;
+    margin: auto;
+    border-radius: 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px;
+    -ms-border-radius: 20px 20px 20px;
+    -o-border-radius: 20px 20px 20px;
+}
+
+.Gumball-p22 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    text-align: justify;
+    text-transform: uppercase;
+    width: 45%;
+    margin: auto auto auto -24px;
+    border: 5px black ridge;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070136029434085407/peakpx_2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 45%;
+    color: rgb(255, 0, 0);
+    padding: 10px;
+}
+
+.image-Bocquelet {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.image-ben-winner {
+    width: 400px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    float: right;
+    display: flex;
+    justify-content: flex-end;
+    margin: auto;
+}
+
+
+.div-dad-grad {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+
+.dad-p-gumball {
+    margin: auto;
+    width: 43%;
+}
+
+.p-Bocquelet-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-Bocquelet-2 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+
+
+.p-Bocquelet-4 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-Bocquelet-5 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-gumball-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-color: antiquewhite;
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+
+
+/* darwan */
+.darwan-p-1 {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+.darwan-back-p-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070130978577723402/peakpx_1.jpg);
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-darwan {
+    width: 22%;
+    margin: auto;
+    padding: 25px;
+    float: left;
+}
+
+.p-1-border {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    text-align: justify;
+    text-transform: uppercase;
+    width: 45%;
+    margin: auto auto auto -24px;
+    border: 5px black ridge;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070130978577723402/peakpx_1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 45%;
+    color: white;
+    padding: 20px;
+}
+
+.color-p-str {
+    color: rgb(255, 0, 98);
+}
+
+/*  darwan-end */
+
+/* Anais */
+
+.Anais-p-1 {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+
+.p-Anais-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSK_sNFpEQvoOOWQKN9TJSZz-rQDtU-f-e_A&usqp=CAU);
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.Anais-img-1 {
+    width: 15%;
+    margin: auto;
+    padding: 25px;
+    float: left;
+}
+
+.p-1-Anais {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    text-align: justify;
+    text-transform: uppercase;
+    width: 45%;
+    margin: auto auto auto -24px;
+    border: 5px black ridge;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070136989594177608/2085846.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 45%;
+    color: white;
+    padding: 20px;
+}
+
+/* Anais-end */
+
+.p-gumball-2 {
+    padding: 5px;
+    margin: 20px;
+}
+
+
+
+
+.p-gumball-3 {
+    padding: 5px;
+    margin: 20px;
+}
+
+.p-gumball-4 {
+    padding: 5px;
+    margin: 20px;
+    background-color: aliceblue;
+    border: solid;
+    border-radius: 10PX;
+}
+
+.p-gumball-5 {
+    margin: 20px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: solid;
+    border-radius: 10px;
+}
+
+.p-gumball-6 {
+    padding: 5px;
+    margin: 20px;
+}
+
+.p-gumball-7 {
+    margin: 20px;
+    padding: 5px;
+    background-color: antiquewhite;
+    border: solid;
+    border-radius: 10px;
+}
+
+.p-gumball-8 {
+    padding: 5px;
+    margin: 20px;
+}
+
+.p-gumball-9 {
+    margin-left: 8px;
+    border-radius: 10px;
+    border: solid;
+    color: black;
+    background-color: antiquewhite;
+}
+
+.p-gumball-10 {
+    padding: 5px;
+    margin: 20px;
+}
+
+.p-gumball-11 {
+    border-radius: 10px;
+    border: solid;
+    color: black;
+    background-color: antiquewhite;
+}
+
+
+.p-gumball-12 {
+    padding: 5px;
+    margin: 20px;
+}
+
+
+/* richard */
+.richard-p-1 {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+.p-richard-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSK_sNFpEQvoOOWQKN9TJSZz-rQDtU-f-e_A&usqp=CAU);
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.img-richard {
+    width: 20%;
+    margin: auto;
+    padding: 25px;
+    float: left;
+}
+
+.p-richard-2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    text-align: justify;
+    text-transform: uppercase;
+    width: 45%;
+    margin: auto auto auto -24px;
+    border: 5px black ridge;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070149204493733958/wp11311794.webp);
+    background-position: center;
+    background-size: cover;
+    height: 45%;
+    color: white;
+    padding: 20px;
+}
+
+/* end-richard-watterson */
+
+
+/* nicole */
+
+
+.p-nicole-1 {
+    display: grid;
+    grid-template-rows: repeat(1, 45%);
+    grid-template-columns: repeat(1, 1fr);
+    display: flex;
+    justify-content: center;
+    justify-self: left;
+}
+
+.nicole-p-1 {
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070152663540441198/wp3997503.webp);
+    border: solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.img-nicole {
+    width: 13%;
+    margin: auto;
+    padding: 25px;
+    float: left;
+}
+
+.p-nicole-2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    line-height: 2.8em;
+    text-align: justify;
+    text-transform: uppercase;
+    width: 45%;
+    margin: auto auto auto -24px;
+    border: 5px black ridge;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-image: url(https://cdn.discordapp.com/attachments/1070061633994506321/1070152663540441198/wp3997503.webp);
+    background-position: center;
+    background-size: cover;
+    height: 45%;
+    color: white;
+    padding: 20px;
+}
+
+/* nicole-end*/
+/* nicole-end*/
+
+/*gumball-season-top  */
+
+.grid-allseasons-gumball {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.image-gumball-season-top {
+    width:370px;
+    height:500px;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+    margin: auto auto auto 95px;
+}
+
+
+.li-gumball-season-top {
+    padding: 20px;
+    background-color: rgb(0, 169, 203);
+    border-radius: 10px;
+    color: rgb(255, 149, 0);
+    font-family: 'Roboto Mono', monospace;
+    font-size: 20px;
+}
+
+.ul-gumball-season-top {
+    width:15%;
+    list-style-type: none;
+    display: inline-block;
+    display: flex;
+    justify-self: center;
+    text-align: center;
+}
+
+
+
+a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover, a:active {
+    background-color: rgb(0, 169, 203);
+    border-radius: 10px;
+    padding: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.image-gumball-season-buttom {
+    width:370px;
+    height:500px;
+    border-radius:10px ;
+    -webkit-border-radius:10px ;
+    -moz-border-radius:10px ;
+    -ms-border-radius:10px ;
+    -o-border-radius:10px ;
+    margin: 30px auto auto 90px;
+}

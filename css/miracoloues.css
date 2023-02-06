@@ -1,0 +1,862 @@
+
+body {
+
+}
+
+.image-thomes {
+    border: solid;
+    border-radius: 10px;
+    width: 15%;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.all-text-auther {
+    padding-left:10px;
+    direction: rtl;
+}
+
+.p-thomes-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-6 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+
+.p-thomes-7 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+/* thomas astruc */
+/* cat noir */
+.image-catnoir {
+    width: calc(30vw + 6px);
+    height: calc(20vw + 6px);
+    background-image: linear-gradient(90deg, #ffd700 0%, white 55%, green 80%,#ffd700 100%);
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    top: 10%;
+    left: 34%; */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.image-catnoir::after {
+    content: attr(alt);
+    width: 30vw;
+    height: 20vw;
+    background-image:url(https://cdn.discordapp.com/attachments/1070061633994506321/1070605411939516508/Adrien_Agreste__Kara_Kedi_.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-catnoir {
+    animation:slowed 2s linear infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation:slowed 2s linear infinite;
+}
+
+@keyframes slowed {
+    to {
+        background-position:30vw;
+    }
+}
+
+.all-margin-catnoir {
+margin-left:60%;
+}
+
+.p-catnoir-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width:40%;
+    margin-top:-22%;
+    margin-left:15%;
+    line-height:2.1;
+    color:white;
+}
+
+.background-catnoir {
+    width:96%;
+    height:302px;
+    background-image: url(https://i.ytimg.com/vi/oODLLgAuc0o/maxresdefault.jpg);
+    background-position: center;
+    border-radius:20px ;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+    padding:2%;
+}
+
+/* cat noir */
+
+/* ladybag */
+.background-ladybug {
+    width:96%;
+    height:302px;
+    background-image: url(https://i.pinimg.com/736x/85/ed/df/85eddfda5a9fa6c53690b374c8d48074.jpg);
+    background-position: center;
+    border-radius:20px ;
+    border: solid black;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+    padding:2%;
+    margin-top:2%;
+}
+
+.all-margin-ladybug {
+    margin-left:5%;
+}
+
+.image-ladybug {
+    width: calc(30vw + 6px);
+    height: calc(20vw + 6px);
+    background-image: linear-gradient(90deg, #0f17e6 0%,black 55%, #ff2a00 80%,#0f17e6 100%,black 55%);
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    top: 10%;
+    left: 34%; */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.image-ladybug::after {
+    content: attr(alt);
+    width: 30vw;
+    height: 20vw;
+    background-image:url(https://i.quotev.com/3eh6qsdxaaaa.jpg);
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image-ladybug {
+    animation:slowed 2s linear infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation:slowed 2s linear infinite;
+}
+
+@keyframes slowed {
+    to {
+        background-position:30vw;
+    }
+}
+
+.p-ladybag-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width:40%;
+    margin-top:-24%;
+    margin-left:41%;
+    line-height:2.1;
+    color:white;
+}
+
+/* ladybag */
+/* hawkmoth */
+.background-hawkmoth {
+    width:96%;
+    height:302px;
+    background-image: url(https://i.pinimg.com/236x/9f/6a/54/9f6a54224ef4371641d883975654673f.jpg);
+    background-position: center;
+    background-size:1%;
+    border-radius:20px ;
+    border: solid black;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+    padding:2%;
+    margin-top:7%;
+}
+
+.image-hawkmoth {
+    width: calc(30vw + 6px);
+    height: calc(20vw + 6px);
+    background-image: linear-gradient(90deg,#6902f9 0%,white 55%, #ffd700 80%,#6902f9 100%,black 55%);
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    top: 10%;
+    left: 34%; */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.image-hawkmoth::after {
+    content: attr(alt);
+    width: 30vw;
+    height: 20vw;
+    background-image:url(https://cdn.discordapp.com/attachments/1070061633994506321/1070605412317016114/gabriel_agreste_and_hawkmoth.webp);
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image-hawkmoth {
+    animation:slowed 2s linear infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation:slowed 2s linear infinite;
+}
+
+@keyframes slowed {
+    to {
+        background-position:30vw;
+    }
+}
+
+
+.all-margin-hawkmoth {
+    margin-left:60%;
+    }
+
+.p-hawkmoth-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width:40%;
+    margin-top:-22%;
+    margin-left:15%;
+    line-height:2.1;
+    color:white;
+}
+
+/* hawkmoth */
+
+/* mayura */
+
+.background-mayura {
+    width:96%;
+    height:302px;
+    background-image:url();
+    background-position: center;
+    background-size:100%;
+    border-radius:20px ;
+    border: solid black;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+    padding:2%;
+    margin-top:7%;
+}
+
+.image-mayura {
+    width: calc(30vw + 6px);
+    height: calc(20vw + 6px);
+    background-image: linear-gradient(90deg,#6c00d1 10%,#ec0f00 55%, #0024be 80%,#6c00d1 100%,#00ece9 55%);
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    top: 10%;
+    left: 34%; */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.image-mayura::after {
+    content: attr(alt);
+    width: 30vw;
+    height: 20vw;
+    background-image:url(https://i.pinimg.com/564x/7f/7e/8e/7f7e8eb1ca9526265c676b03bf77315d.jpg);
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image-mayura {
+    animation:slowed 2s linear infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation:slowed 2s linear infinite;
+}
+
+@keyframes slowed {
+    to {
+        background-position:30vw;
+    }
+}
+
+
+.all-margin-mayura {
+    margin-left:5%;
+    }
+
+.p-mayura-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width:40%;
+    margin-top:-24%;
+    margin-left:41%;
+    line-height:2.1;
+    color:black;
+}
+
+
+/* mayura */
+
+/* background-sabine */
+
+.background-sabine {
+    width:96%;
+    height:302px;
+    background-image:url();
+    background-position: center;
+    background-size:100%;
+    border-radius:20px ;
+    border: solid black;
+    -webkit-border-radius:20px ;
+    -moz-border-radius:20px ;
+    -ms-border-radius:20px ;
+    -o-border-radius:20px ;
+    padding:2%;
+    margin-top:14%;
+}
+
+.image-sabine {
+    width: calc(30vw + 6px);
+    height: calc(20vw + 6px);
+    background-image: linear-gradient(90deg,#6c00d1 10%,#ec0f00 55%, #0024be 80%,#6c00d1 100%,#00ece9 55%);
+    border-radius:5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* position: absolute;
+    top: 10%;
+    left: 34%; */
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.image-sabine::after {
+    content: attr(alt);
+    width: 30vw;
+    height: 20vw;
+    background-image:url();
+    /* background-size:130%; */
+    background-position:center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image-sabine {
+    animation:slowed 2s linear infinite;
+    animation-iteration-count: infinite;
+    -webkit-animation:slowed 2s linear infinite;
+}
+
+@keyframes slowed {
+    to {
+        background-position:30vw;
+    }
+}
+
+
+.all-margin-sabine {
+    margin-left:60%;
+    }
+
+.p-sabine-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width:40%;
+    margin-top:-24%;
+    margin-left:41%;
+    line-height:2.1;
+    color:black;
+}
+
+/* sabine end */
+
+
+    .background-tom {
+        width:96%;
+        height:302px;
+        background-image:url();
+        background-position: center;
+        background-size:100%;
+        border-radius:20px ;
+        border: solid black;
+        -webkit-border-radius:20px ;
+        -moz-border-radius:20px ;
+        -ms-border-radius:20px ;
+        -o-border-radius:20px ;
+        padding:2%;
+        margin-top:27%;
+    }
+    
+    .image-tom {
+        width: calc(30vw + 6px);
+        height: calc(20vw + 6px);
+        background-image: linear-gradient(90deg,#6c00d1 10%,#ec0f00 55%, #0024be 80%,#6c00d1 100%,#00ece9 55%);
+        border-radius:5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* position: absolute;
+        top: 10%;
+        left: 34%; */
+        -webkit-border-radius:5px;
+        -moz-border-radius:5px;
+        -ms-border-radius:5px;
+        -o-border-radius:5px;
+    }
+    
+    .image-tom::after {
+        content: attr(alt);
+        width: 30vw;
+        height: 20vw;
+        background-image:url();
+        /* background-size:130%; */
+        background-position:center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    .image-tom {
+        animation:slowed 2s linear infinite;
+        animation-iteration-count: infinite;
+        -webkit-animation:slowed 2s linear infinite;
+    }
+    
+    @keyframes slowed {
+        to {
+            background-position:30vw;
+        }
+    }
+    
+    
+    .all-margin-tom {
+        margin-left:5%;
+        }
+        .p-tom-1 {
+            font-family: 'Lato', sans-serif;
+            font-weight: bold;
+            width:40%;
+            margin-top:-24%;
+            margin-left:41%;
+            line-height:2.1;
+            color:black;
+        }
+        
+    
+
+
+/* background-tom */
+
+
+
+
+
+
+
+
+
+
+.image-season-1 {
+    position: absolute;
+    top: 849%;
+    left: 5px;
+    width: 200px;
+    height: 300px;
+    border: solid;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.p-M-season-1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 849%;
+    left: 16%;
+    color: blue;
+    border: solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    line-height: 1.6;
+
+}
+
+.p1-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 856%;
+    left: 220px;
+}
+
+.p2-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 861%;
+    left: 220px;
+}
+
+.p3-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 866%;
+    left: 220px;
+}
+
+.p4-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 871%;
+    left: 220px;
+}
+
+.p6-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top:876%;
+    left: 220px;
+}
+
+.p7-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 881%;
+    left: 220px;
+}
+
+.p8-M1-season1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 885%;
+    left: 220px;
+    line-height: 1.6;
+}
+
+/* end in season 1 in miracoloues */
+/* end in season 1 in miracoloues */
+
+/* end in season two */
+/* end in season two */
+
+.image-season-2 {
+    position: absolute;
+    top: 900%;
+    left: 5px;
+    width: 200px;
+    border: solid;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.p1-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 900%;
+    left: 217px;
+    line-height: 1.6;
+    color: blue;
+    border: solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.p2-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 906%;
+    left: 217px;
+}
+
+.p3-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 911%;
+    left: 217px;
+}
+
+.p4-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 916%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p5-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 933%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p6-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 941%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p7-M2-season2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top:946%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+/* end in season two */
+/* end in season two */
+
+/*mirscoloues season 3 */
+/*mirscoloues season 3 */
+
+.image-season3 {
+    position: absolute;
+    top: 958%;
+    left: 5px;
+    width: 200px;
+    border: solid;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.p1-M3-season3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 955%;
+    left: 217px;
+    line-height: 1.6;
+    color: blue;
+    border: solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.p2-M3-season3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 960%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p3-M3-season3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 968%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p4-M3-season3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 972%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+/* end season 3 miracoloues */
+/* end season 3 miracoloues */
+
+/* season 4 in miracoloues */
+.image-season4 {
+    position: absolute;
+    top: 980%;
+    left: 5px;
+    width: 200px;
+    border: solid;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.p1-M4-season4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 978%;
+    left: 217px;
+    line-height: 1.6;
+    color: blue;
+    border: solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+
+.p2-M4-season4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 983%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p3-M4-season4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 996%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p4-M4-season4 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1005%;
+    left: 217px;
+    line-height: 1.6;
+}
+/* end in season 4 in miracoloues */
+/* end in season 4 in miracoloues */
+
+/* miracoloues season 5 */
+/* miracoloues season 5 */
+.image-season5 {
+    position: absolute;
+    top: 1033%;
+    left: 5px;
+    width: 200px;
+    border: solid;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.p1-M5-season5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1036%;
+    left: 217px;
+    line-height: 1.6;
+    color: blue;
+    border: solid black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.p2-M5-season5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1046%;
+    left: 217px;
+    line-height: 1.6;
+}
+
+.p3-M5-season5 {
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 1063%;
+    left: 217px;
+    line-height: 1.6;
+}
